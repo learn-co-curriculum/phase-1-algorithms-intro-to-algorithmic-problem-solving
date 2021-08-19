@@ -24,6 +24,7 @@ The objectives for this section are to:
 - Develop a process for algorithmic problem solving
 - Understand the usefulness of Big O notation
 - Identify the Big O time and space complexity of a given algorithm
+- Recognize common Big O runtimes: constant, logarithmic, linear, and quadratic
 
 By the end of this section, you'll have the core skills you'll need to develop
 as you begin your journey toward mastering data structures and algorithms. Later
