@@ -20,11 +20,10 @@ place will give you much more confidence when confronted with a new problem.
 
 The objectives for this section are to:
 
-- Understand how algorithmic problem solving makes you a stronger developer
 - Define what "algorithm" means
 - Develop a process for algorithmic problem solving
 - Understand the usefulness of Big O notation
-- Identify the Big O of a given algorithm
+- Identify the Big O time and space complexity of a given algorithm
 
 By the end of this section, you'll have the core skills you'll need to develop
 as you begin your journey toward mastering data structures and algorithms. Later
