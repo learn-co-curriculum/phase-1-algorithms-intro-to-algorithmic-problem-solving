@@ -1,5 +1,11 @@
 # Introduction to Algorithmic Problem Solving
 
+## Learning Goals
+
+- Understand what you will learn in this section
+
+## Introduction
+
 Welcome to this section on algorithmic problem solving! From the prework up to
 this point, you've learned the fundamentals of JavaScript as a language,
 including how to write functions and work with built-in data types, as well as
