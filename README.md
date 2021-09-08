@@ -16,13 +16,14 @@ In this section, we're going to shift gears a bit and leave the browser to focus
 on one of the most important skills you can build as a software engineer:
 developing a **process** for solving problems with code.
 
-Developing your algorithmic problem solving skills will not only help you
-approach labs, code challenges and projects throughout the rest of this program,
-it will also help immensely as you begin to prepare for technical interviews
-once you graduate the program! One of the most critical steps toward landing a
-job after graduating is being able to demonstrate your proficiency writing code
-during technical interviews, and having a rock-solid problem solving process in
-place will give you much more confidence when confronted with a new problem.
+Developing your algorithmic problem solving skills will help you approach labs,
+code challenges and projects throughout the rest of this program. Just as
+importantly, it will also help immensely as you begin to prepare for technical
+interviews once you graduate the program! One of the most critical steps toward
+landing a job after graduating is being able to demonstrate your proficiency
+writing code during technical interviews, and having a rock-solid problem
+solving process in place will give you much more confidence when confronted with
+a new problem.
 
 The objectives for this section are to:
 
@@ -32,9 +33,9 @@ The objectives for this section are to:
 - Identify the Big O time and space complexity of a given algorithm
 - Recognize common Big O runtimes: constant, logarithmic, linear, and quadratic
 
-By the end of this section, you'll have the core skills you'll need to develop
-as you begin your journey toward mastering data structures and algorithms. Later
-in the program, we'll revisit this material and move on to more advanced topics.
+By the end of this section, you'll have a strong foundation in the skills needed
+to solve many data structures and algorithm problems. Later in the program,
+we'll revisit this material and move on to more advanced topics.
 
 ## Resources
 
