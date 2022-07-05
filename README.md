@@ -6,11 +6,11 @@
 
 ## Introduction
 
-Welcome to this section on algorithmic problem solving! From the prework up to
-this point, you've learned the fundamentals of JavaScript as a language,
-including how to write functions and work with built-in data types, as well as
-how to use the "three pillars" of JavaScript (DOM Manipulation, Event Handling,
-and Network Communication) to build small web applications.
+Welcome to this section on algorithmic problem solving! From Software
+Engineering Prep up to this point, you've learned the fundamentals of JavaScript
+as a language, including how to write functions and work with built-in data types,
+as well as how to use the "three pillars" of JavaScript (DOM Manipulation, Event
+Handling, and Network Communication) to build small web applications.
 
 In this section, we're going to shift gears a bit and leave the browser to focus
 on one of the most important skills you can build as a software engineer:
